@@ -8,4 +8,4 @@ This repository is dedicated to the completion of all my tasks from The Sparks F
 
 |Task|Description|
 |---|---|
-|Task 1|Prediction using Supervised ML (Level - Beginner)|
+|[Task 1](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/TSF%20Task-1)|Prediction using Supervised ML (Level - Beginner)|
