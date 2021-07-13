@@ -5,7 +5,7 @@ This repository is dedicated to the completion of all my tasks from The Sparks F
 ## IDE : Jupyter Notebook
 
 ## -> Technical Task  
-
+### Data Science & Business Analytics
 |Task|Description|
 |---|---|
 |[Task 1](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/TSF%20Task-1)|Prediction using Supervised ML (Level - Beginner)|
@@ -14,3 +14,9 @@ This repository is dedicated to the completion of all my tasks from The Sparks F
 |[Task 4](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/TSF%20Task-4)|Exploratory Data Analysis - Terrorism (Level - Intermediate)|
 |[Task 5](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/TSF%20Task-5)|Exploratory Data Analysis - Sports (Level - Advanced)|
 |[Task 6](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/TSF%20Task-6)|Prediction using Decision Tree Algorithm (Level - Intermediate)|
+
+### Computer Vision & IoT
+|Task|Description|
+|---|---|
+|[Task 1](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/CV2%20Task-1)|Object Detection in Image and Video (Level - Beginner)|
+|[Task 2](https://github.com/VaibhavBichave/TSF-GRIP/tree/main/CV2%20Task-2)|Color Identification in Images (Level - Beginner)|
